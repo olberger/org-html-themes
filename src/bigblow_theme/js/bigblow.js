@@ -140,7 +140,7 @@ $(document).ready(function() {
     $('#table-of-contents').remove();
 
     // Prepare for tabs
-    tabifySections();
+//    tabifySections();
 
     // Build the tabs from the #content div
     $('#content').tabs();
